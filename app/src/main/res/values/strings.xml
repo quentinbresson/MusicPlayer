@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MusicPlayer</string>
+    <string name="song_name">Unknown</string>
+    <string name="song_album">Unknown</string>
+    <string name="song_artist">Unknown</string>
+    <string name="song_duration">Unknown</string>
 </resources>
