@@ -1,7 +1,7 @@
 # MusicPlayer
 
 Ce répertoire (pour le moment un embryon) consiste en un "projet tutoriel" d'implémentation d'un lecteur de musique Android basique.
-Le but est de mieux cerner le fonctionnement d'Android à travers ces interactions avec une application (en l'occurence, la notre). C'est pourquoi il n'y aura pas d'interactions avec Internet.
+Le but est de mieux cerner le fonctionnement d'Android à travers ses interactions avec une application (en l'occurence, la notre). C'est pourquoi il n'y aura pas d'interactions avec Internet.
 
 Les problématiques du développement d'applications pour smartphones sont un peu différente de celles pour ordinateur. La puissance de calcul, à l'instar de l'espace de stockage, est limité. Il faut également veiller à ne pas être trop énergivore.
 
@@ -23,3 +23,5 @@ On souhaite dans un premier temps avoir les fonctionnalités de base :
  - Traitement du son (bass boost ...)
  - Modifier les icones des playlists, des albums et des musiques
  - Software Security (gros chantier)
+ - Interactions avec les boutons sur un écouteur/casque
+ - Bluetooth
